@@ -1,1 +1,1 @@
-script that moves the file betty from /tmp/ to /tmp/my_first_directory
+script that delete the file betty
