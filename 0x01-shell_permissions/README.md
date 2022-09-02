@@ -1,1 +1,1 @@
-woo readme, ige zukwanuike o
+e don cast, last last, na everybody go finish project... shayoooo!
