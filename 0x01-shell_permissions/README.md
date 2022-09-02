@@ -1,1 +1,1 @@
-script that change _hello to vin
+woo readme, ige zukwanuike o
