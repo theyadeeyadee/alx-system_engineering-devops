@@ -1,1 +1,1 @@
-script that changes the owner to vincent and the group owner to staff for *
+script that change _hello to vin
