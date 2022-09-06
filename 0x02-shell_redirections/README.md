@@ -7,4 +7,4 @@ Task 5 - Display the first 10 lines of /etc/passwd
 Task 6 - Write a script that displays the third line of the file iacta..
 Task 7 - script that prints the third line of file iacta
 Task 8 - Write a script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content
-
+Task 9 - Write a script that duplicates the last line of the file iacta
